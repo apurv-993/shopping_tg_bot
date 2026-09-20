@@ -1,0 +1,6 @@
+python-telegram-bot==22.8
+python-dotenv
+httpx
+beautifulsoup4
+rapidfuzz
+lxml
